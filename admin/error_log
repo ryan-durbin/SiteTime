@@ -1,0 +1,5 @@
+[14-Jul-2012 13:22:55 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rymn/public_html/siteti.me/admin/changeping.php on line 6
+[15-Jul-2012 22:28:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rymn/public_html/siteti.me/admin/changeping.php on line 6
+[17-Jul-2012 12:59:38 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rymn/public_html/siteti.me/admin/changeping.php on line 6
+[20-Jul-2012 15:53:18 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rymn/public_html/siteti.me/admin/changeping.php on line 6
+[13-Sep-2012 18:01:27 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/rymn/public_html/siteti.me/admin/changeping.php on line 6

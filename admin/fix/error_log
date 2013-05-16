@@ -1,0 +1,4 @@
+[13-Jul-2012 20:50:38 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/rymn/public_html/siteti.me/admin/fix/config.php on line 8
+[15-Sep-2012 04:10:46 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'root'@'localhost' (using password: NO) in /home/rymn/public_html/siteti.me/admin/fix/config.php on line 8
+[17-Dec-2012 06:06:25 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rymn/public_html/siteti.me/admin/fix/config.php on line 8
+[02-Mar-2013 07:31:58 America/New_York] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/rymn/public_html/siteti.me/admin/fix/config.php on line 8

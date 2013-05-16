@@ -1,0 +1,4 @@
+$_SESSION variables
+site = website
+
+$_GET

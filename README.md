@@ -13,6 +13,8 @@ I will create an instalation guide soon when the time comes, just to keep with t
 
 The backend is complete and I've had it running for many months without a hickup, but the front end and payments aren't functional.
 
+Spaghetti code this is and not MVC.  This is terrible code, but 10 min here and there for 2 years makes this :)
+
 Instalation
 ===========
 to come

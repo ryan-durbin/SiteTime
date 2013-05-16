@@ -1,5 +1,7 @@
 SiteTime
+========
 Server/Website Uptime Monitoring
+================================
 
 I will upload this when I get a chance, but this will be where I store my files for you all to see concerning a project I've moved past.
 
@@ -12,7 +14,9 @@ I will create an instalation guide soon when the time comes, just to keep with t
 The backend is complete and I've had it running for many months without a hickup, but the front end and payments aren't functional.
 
 Instalation
+===========
 to come
 
 Patch Notes
+===========
 0.1 Initial upload to github.
